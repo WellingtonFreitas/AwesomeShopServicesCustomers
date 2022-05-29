@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89a61f2e-e79a-49c8-a0f7-4d286ceb6e66": {
+      "ProjectGuid": "89a61f2e-e79a-49c8-a0f7-4d286ceb6e66",
+      "DisplayName": "AwesomeShop.Services.Customers.Domain",
+      "ColorIndex": 0
+    },
+    "848beaaa-a88b-4789-b1f7-fa632a847bfc": {
+      "ProjectGuid": "848beaaa-a88b-4789-b1f7-fa632a847bfc",
+      "DisplayName": "AwesomeShop.Services.Customers.Application",
+      "ColorIndex": 1
+    },
+    "3a2d8511-e801-4a09-a5fe-bb0075c76407": {
+      "ProjectGuid": "3a2d8511-e801-4a09-a5fe-bb0075c76407",
+      "DisplayName": "AwesomeShop.Services.Customers.Infrastructure",
+      "ColorIndex": 2
+    },
+    "77b49165-3813-4e88-b9d5-8430a1bcc05a": {
+      "ProjectGuid": "77b49165-3813-4e88-b9d5-8430a1bcc05a",
+      "DisplayName": "AwesomeShop.Services.Customers.CrossCutting",
+      "ColorIndex": 3
+    },
+    "cee4fa17-76d4-443f-82bd-56a1fa9cba60": {
+      "ProjectGuid": "cee4fa17-76d4-443f-82bd-56a1fa9cba60",
+      "DisplayName": "AwesomeShop.Services.Customers.Data",
+      "ColorIndex": 4
+    },
+    "0d0509d4-703e-4482-a69a-fb7cc6abde04": {
+      "ProjectGuid": "0d0509d4-703e-4482-a69a-fb7cc6abde04",
+      "DisplayName": "AwesomeShop.Services.Customers.Api",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "80b66597-bf4f-4338-9f39-4b7ffc15a974": {
+      "ProjectGuid": "80b66597-bf4f-4338-9f39-4b7ffc15a974",
+      "DisplayName": "AwesomeShop.Services.Customers.DependencyInjection",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

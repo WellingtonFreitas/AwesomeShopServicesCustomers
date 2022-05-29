@@ -1,0 +1,17 @@
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.deps.json
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\ref\AwesomeShop.Services.Customers.Infrastructure.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Customers.Domain.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.AssemblyInfo.cs
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.csproj.CopyComplete
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\ref\AwesomeShop.Services.Customers.Infrastructure.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Customers.Infrastructure.pdb

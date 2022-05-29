@@ -1,0 +1,12 @@
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\bin\Debug\net5.0\AwesomeShop.Services.Customers.Domain.deps.json
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\bin\Debug\net5.0\AwesomeShop.Services.Customers.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\bin\Debug\net5.0\ref\AwesomeShop.Services.Customers.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\bin\Debug\net5.0\AwesomeShop.Services.Customers.Domain.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.csproj.AssemblyReference.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.AssemblyInfoInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.AssemblyInfo.cs
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\ref\AwesomeShop.Services.Customers.Domain.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.Domain\obj\Debug\net5.0\AwesomeShop.Services.Customers.Domain.pdb

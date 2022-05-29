@@ -1,0 +1,12 @@
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\bin\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.deps.json
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\bin\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\bin\Debug\net5.0\ref\AwesomeShop.Services.Customers.CrossCutting.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\bin\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.pdb
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.csproj.AssemblyReference.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.AssemblyInfoInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.AssemblyInfo.cs
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\ref\AwesomeShop.Services.Customers.CrossCutting.dll
+C:\Projects\MicroServicosLuizDev\AwesomeShop.Services.Customers\src\AwesomeShop.Services.Customers.CrossCutting\obj\Debug\net5.0\AwesomeShop.Services.Customers.CrossCutting.pdb

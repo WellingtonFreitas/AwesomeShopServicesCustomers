@@ -1,0 +1,547 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Api\\AwesomeShop.Services.Customers.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Api\\AwesomeShop.Services.Customers.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Api\\AwesomeShop.Services.Customers.Api.csproj",
+        "projectName": "AwesomeShop.Services.Customers.Api",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Api\\AwesomeShop.Services.Customers.Api.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\AwesomeShop.Services.Customers.DependencyInjection.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\AwesomeShop.Services.Customers.DependencyInjection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.16, 5.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj",
+        "projectName": "AwesomeShop.Services.Customers.Application",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\AwesomeShop.Services.Customers.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\AwesomeShop.Services.Customers.CrossCutting.csproj",
+        "projectName": "AwesomeShop.Services.Customers.CrossCutting",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\AwesomeShop.Services.Customers.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.10.5, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\AwesomeShop.Services.Customers.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\AwesomeShop.Services.Customers.Data.csproj",
+        "projectName": "AwesomeShop.Services.Customers.Data",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\AwesomeShop.Services.Customers.Data.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\AwesomeShop.Services.Customers.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\AwesomeShop.Services.Customers.DependencyInjection.csproj",
+        "projectName": "AwesomeShop.Services.Customers.DependencyInjection",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\AwesomeShop.Services.Customers.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Application\\AwesomeShop.Services.Customers.Application.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\AwesomeShop.Services.Customers.Data.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Data\\AwesomeShop.Services.Customers.Data.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj",
+        "projectName": "AwesomeShop.Services.Customers.Domain",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj",
+        "projectName": "AwesomeShop.Services.Customers.Infrastructure",
+        "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\AwesomeShop.Services.Customers.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\w.martins.de.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\AwesomeShop.Services.Customers.CrossCutting.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.CrossCutting\\AwesomeShop.Services.Customers.CrossCutting.csproj"
+              },
+              "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj": {
+                "projectPath": "C:\\Projects\\MicroServicosLuizDev\\AwesomeShop.Services.Customers\\src\\AwesomeShop.Services.Customers.Domain\\AwesomeShop.Services.Customers.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
